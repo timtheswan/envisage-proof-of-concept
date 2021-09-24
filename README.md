@@ -5,3 +5,5 @@ After downloading contents, ensure Node is installed, then yarn, then run comman
 
 View Live Prototype: [Site Link](http://envisage.timtheswan.com/)
 
+Learn more about Envisage and where we are at now: [Envisage Site](https://envisageplanner.com)
+
